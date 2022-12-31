@@ -1,0 +1,36 @@
+body{
+	background-color: #2f4050;
+}
+.col-sm-10{
+	background-color: #fff;
+}
+
+#sidebar a{
+	color:  #bcd6ad ;
+
+}
+#sidebar .active{
+	color:  white ;
+}
+#sidebar a:hover{
+	background-color: #1ab394;
+	color:  white !important;
+	font-weight: bold;
+}
+
+#footer{
+	padding: 10px;
+	border: 1px solid black;
+	color: whitesmoke;
+	text-align: center;
+	background-color: #211f22;
+}
+.FieldInfo{
+	color: blue !important;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+
+.nav-link{
+	color:#bcd6ad !important;
+}
